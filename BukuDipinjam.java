@@ -38,7 +38,7 @@ public class BukuDipinjam extends Buku {
         return hitungHariTelat(hariSekarang) * 500;
     }
 
-    // Override method (polymorphism)
+    // Override method
     // Menambahkan informasi tambahan saat ditampilkan
     @Override
     public String toString() {

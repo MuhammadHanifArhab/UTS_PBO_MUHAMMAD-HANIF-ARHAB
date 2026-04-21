@@ -31,7 +31,7 @@ public class Buku {
         this.tersedia = status;
     }
 
-    // Override method toString (polymorphism)
+    // Override method toString
     // Digunakan untuk menampilkan data buku
     @Override
     public String toString() {
